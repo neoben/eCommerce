@@ -1,0 +1,125 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+img{
+	border: 0;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+	background: #9CC54F;
+	text-align: justify;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #666;
+}
+
+td { 
+   	width: 30%;
+	text-align: left;
+}
+
+
+table {
+	width: 90%; 
+	position: left;
+}
+
+.button {
+   text-decoration: none;
+   color: black;
+   background-color: #CCC;
+   padding: 3px 3px 3px 3px ;
+   font-size: 14px;
+}
+
+#page {
+	background: transparent;
+	width: 900px;
+	margin: 0 auto;
+	padding: 0px;
+}
+
+#header {
+	background: #FFF;
+	width: 900px;
+	height: 50px;
+	margin-top: 15px;
+	padding: 10px;
+	text-shadow: 2px 2px 5px #9CC54F;
+	font-size: 40px;
+	text-align: center;
+	border-radius: 10px;
+	-webkit-box-shadow: rgba(0, 0, 0, 0.5) 1px 1px 0px;
+	-moz-box-shadow: rgba(0, 0, 0, 0.5) 1px 1px 0px;
+	box-shadow: rgba(0, 0, 0, 0.5) 1px 1px 0
+}
+
+#center {
+	background: #FFF;
+	width: 900px;
+	height: 600px; 
+	margin-top: 15px;
+	padding: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: rgba(0, 0, 0, 0.5) 1px 1px 0px;
+	-moz-box-shadow: rgba(0, 0, 0, 0.5) 1px 1px 0px;
+	box-shadow: rgba(0, 0, 0, 0.5) 1px 1px 0
+}
+
+#footer {
+	background: #FFF;
+	width: 900px;
+	height: 15px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: rgba(0, 0, 0, 0.5) 1px 1px 0px;
+	-moz-box-shadow: rgba(0, 0, 0, 0.5) 1px 1px 0px;
+	box-shadow: rgba(0, 0, 0, 0.5) 1px 1px 0
+}
+
+#navigation {
+	background: transparent;
+	width: 610px;
+	height: 600px;
+	float: left; 
+}
+
+#bar {
+	background: transparent;
+	width: 250px;
+	height: 600px;
+	float: right;	
+}
+
+#pagenav {
+	background: transparent;
+	width: 590px;
+	height: 580px;
+	padding: 7px;
+	border:  #9CC54F solid 2px;
+	border-radius: 10px;
+	text-align: left;
+}
+
+#login {
+	background: #9CC54F;
+	width: 230px;
+	height: 230px;
+	padding: 7px;
+	border-radius: 10px;
+}
+
+#cart {
+	background: #9CC54F;
+	width: 230px;
+	height: 320px;
+	padding: 7px;
+	margin-top: 20px;
+	border-radius: 10px;
+}
